@@ -1,4 +1,4 @@
-# 
+# high-frequency sushiswap trading bot Tool | auto-compounding + rug-pull-detection offers the most advanced sushiswap trading bot, with auto-compounding and rug-pull-detection.
 
 
 
